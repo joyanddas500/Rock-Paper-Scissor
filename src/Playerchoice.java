@@ -1,7 +1,7 @@
 public class Playerchoice extends Baseclass {
 
     public Playerchoice(String name) {
-        super(name);
+        super(name); //hudaiiiiiiiii
     }
 
     @Override
